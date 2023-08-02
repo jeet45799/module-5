@@ -1,0 +1,5 @@
+To create the project, use the command-line utility django-admin that comes with Django. This command will generate files where you can configure the settings for your database, add third-party packages, and more.
+
+Create the project using the following command:
+
+----django-admin startproject test_project

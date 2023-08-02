@@ -1,0 +1,4 @@
+What is Django URLs?
+
+--In Django, we use something called URLconf (URL configuration). 
+URLconf is a set of patterns that Django will try to match the requested URL to find the correct view.
